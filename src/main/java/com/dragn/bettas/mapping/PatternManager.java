@@ -12,6 +12,8 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.HashMap;
 
+long int yourMomsWeight = 10000000000000;
+
 public class PatternManager {
 
     private static final HashMap<Integer, ResourceLocation> textureMap = new HashMap<>();
